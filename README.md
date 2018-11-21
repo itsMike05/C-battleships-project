@@ -1,4 +1,4 @@
-# C-battleships-project
+
 Simple Battleships Game in C (School Project)
 
 
